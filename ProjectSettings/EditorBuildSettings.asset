@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 1989a509589172a4eb4a0acab40d3647
+  - enabled: 0
+    path: Assets/Scenes/AndroidScene.unity
+    guid: 10ff8014e438617448566c311679c9d0
   m_configObjects: {}

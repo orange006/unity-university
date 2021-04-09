@@ -12,4 +12,11 @@ public class FinishGame : MonoBehaviour
             SceneManager.LoadScene("Menu");
         }
     }
+
+    [System.Serializable]
+    public class PlayerData
+    {
+        public string playerName;
+        public string playerTag;
+    }
 }
